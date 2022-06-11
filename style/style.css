@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(244, 229, 229);
+}
+
+h1{
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+ul, ol{
+    font-size: 15px;
+}
+
+li{
+    margin-top: 5px;
+}
